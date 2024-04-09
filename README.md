@@ -1,12 +1,11 @@
 # Attention-Mechanisms-From-Theory-to-Implementation
 
-**One-Line Description:** Explore the theory and practical implementation of attention mechanisms in Transformer models for various NLP tasks.
 
-**Overview:**
+## **Overview:**
 
 This repository delves into the fascinating world of attention mechanisms, a cornerstone of Transformer models (Vaswani et al., 2017). By dissecting the theory and providing a step-by-step implementation, you'll gain a hands-on understanding of how attention empowers models to focus on crucial parts of the input sequence, leading to improved performance in natural language processing (NLP) applications.
 
-**Applications:**
+## **Applications:**
 
 * Machine translation
 * Text summarization
@@ -15,7 +14,7 @@ This repository delves into the fascinating world of attention mechanisms, a cor
 * Sentiment analysis
 * And many more!
 
-**Outline:**
+## **Outline:**
 
 * **Introduction:** A captivating introduction to Transformer models and their broad range of applications in NLP.
 * **Notebook Structure:** A clear roadmap guiding you through the notebook's well-organized sections (refer to section headings for details).
